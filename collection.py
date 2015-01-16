@@ -1,3 +1,4 @@
+#collection.py
 import pymongo
 
 class Collection(object):
